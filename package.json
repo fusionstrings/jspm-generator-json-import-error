@@ -1,0 +1,12 @@
+{
+  "name": "jspm-generator-json-import",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    ".": "./main.js"
+  },
+  "devDependencies": {
+    "@jspm/generator": "^1.0.0-beta.31",
+    "mkdirp": "^1.0.4"
+  }
+}
